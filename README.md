@@ -42,7 +42,8 @@ if (!$con) {
 
 
 ```
-
+## Demo
+![Demo](https://raw.githubusercontent.com/MSaddamKamal/study-management-system/main/screenshot/study_demo.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
